@@ -47,7 +47,7 @@ margin-top:25px;
 
 #content1
 {
-	width:50%;
+	width:32%;
 	height:250px;
 	background-color:white;
 	float:left;
@@ -72,20 +72,20 @@ margin-top:25px;
 	background-color:white;
 	float:right;
 	margin-top:2px;
-	margin-bottom:5px;
+		margin-bottom:5px;
 	margin-bottom:12px;
 }	
 #content4
 {
-	width:60%;
-	height:200px;
+	width:50%;
+	height:250px;
 	background-color:black;
 	float:left;
 	margin-top:10px;
 }	
 #content5
 {
-	width:50%;
+	width:49%;
 	height:258px;
 	background-color:white;
 	float:right;
