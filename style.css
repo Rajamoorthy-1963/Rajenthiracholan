@@ -136,3 +136,10 @@ margin-top:25px;
 	margin-top:10px;
 	font-size:15px;
 }
+# bottom
+{
+	width:70%;
+	background-color:red;
+	height:300px
+	float:left;
+}
