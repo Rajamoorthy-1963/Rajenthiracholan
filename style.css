@@ -145,7 +145,7 @@ margin-top:25px;
 	margin-left:70px
 #bottom1
 {
-margin-top:15px;
+margin-top:25px;
 	width:60%;
 	background-color:green;
 	height:300px;
@@ -158,6 +158,6 @@ margin-top:15px;
 	width:40%;
 	background-color:green;
 	height:300px;
-	float:left;
+	float:right;
 	
 }
