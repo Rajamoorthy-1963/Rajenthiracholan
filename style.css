@@ -154,11 +154,11 @@ margin-top:25px;
 }
 #bottom1
 {
-	margin-top:15px;
-	color:red;
-	width:60%;
-	height:300px;
-	float:left;
+	width:49%;
+	height:258px;
+	background-color:white;
+	float:right;
+	margin-top:2px;
 }
 #bottom2
 {
