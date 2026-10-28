@@ -118,8 +118,8 @@ margin-top:25px;
 	width:50%;
 	height:250px;
 	background-color:black;
-	float:left;
-	float:right 32%;
+	float left :32%;
+	float: 32%;
 	margin-top:10px;
 }	
 .heading
