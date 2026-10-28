@@ -136,10 +136,18 @@ margin-top:25px;
 	margin-top:10px;
 	font-size:15px;
 }
+.more
+{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:8px;
+	margin-left:70px
 #bottom1
 {
-	width:70%;
-	background-color:red;
+margin-top:15px;
+	width:60%;
 	height:300px;
 	float:left;
+	
 }
