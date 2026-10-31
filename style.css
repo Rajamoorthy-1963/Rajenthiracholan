@@ -147,7 +147,8 @@ margin-top:25px;
 # bottom1
 {
 	width:80%;
-	height:80px;
+	height:90px;
 	background-color: red;
+	margin-top:10px;
 	float:left;
 }
