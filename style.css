@@ -144,3 +144,26 @@ margin-top:25px;
 	padding:8px;
 	margin-left:70px
 }
+#content6
+{
+	width:49%;
+	height:258px;
+	background-color:yellow;
+	float:right;
+	margin-top:2px;
+}	
+.heading
+{
+	color:red;
+	margin-left:20px;
+	margin-top:10px;
+	font-size:15px;
+}
+.more
+{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:8px;
+	margin-left:70px
+}
