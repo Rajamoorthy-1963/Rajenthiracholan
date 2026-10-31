@@ -144,4 +144,10 @@ margin-top:25px;
 	padding:8px;
 	margin-left:70px
 }
-
+# bottom1
+{
+	width:80%;
+	height:80px;
+	background-color: red;
+	float:left;
+}
