@@ -144,4 +144,41 @@ margin-top:25px;
 	padding:8px;
 	margin-left:70px
 }
+#bottom1
+{
+	margin-top:15px;
+	width:60%;
+	height:300px;
+	float:left;
+}
+#bottom2
+{
+	margin-top:15px;
+	width:40%;
+	
+	height:300px;
+	float:right;
+}
+#bottom1 h2
+{
+	color:green;
+	margin-left:20px;
+}
+#bottom1 p
+{
+	color:green;
+	margin-left:20px;
+	margin-right:8px;
+}
+
+#bottom1 a
+{
+	margin-left:20px;
+	color:orange;
+}
+#bottom2 h2
+{
+	color:black;
+	margin-left:20px;
+}
 
